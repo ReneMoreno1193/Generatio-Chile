@@ -1,1 +1,2 @@
 Segunda parte de Git
+texto editado
